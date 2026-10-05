@@ -1,0 +1,28 @@
+{
+    "google": {
+        "enabled": true,
+        "base_url": "https://www.google.com/search?q={query}",
+        "dorks": [
+            "site:{target}",
+            "site:{target} filetype:pdf"
+        ]
+    },
+
+    "bing": {
+        "enabled": true,
+        "base_url": "https://www.bing.com/search?q={query}",
+        "dorks": ["site:{target} inurl:config"]
+    },
+
+    "yahoo": {
+        "enabled": false,
+        "base_url": "https://search.yahoo.com/search?p={query}",
+        "dorks": []
+    },
+
+    "censys": {
+        "enabled": false,
+        "base_url": "https://search.censys.com/search?resource=hosts&q={query}",
+        "dorks": []
+    }
+}

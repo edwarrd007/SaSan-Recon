@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="SaSaN-Recon banner" width="100%">
+  <img src="https://raw.githubusercontent.com/edwarrd007/SaSan-Recon/2003fd6c1bf9b5c520e4fda7c66567836ef206c3/assets/banner.svg" alt="SaSaN-Recon banner" width="100%">
 </div>
 
 <div align="center">
